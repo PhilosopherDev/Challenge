@@ -19,8 +19,8 @@
     - ### Newbie
       - ### NFT preview card component
         - 💡 [My Soultion](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
-        - 🌀 [Live Page](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)
-        - 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent)
+        - 🌀 [Live Page](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
+        - 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
 
 - ## Programmers
 
