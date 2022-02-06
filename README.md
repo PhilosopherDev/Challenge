@@ -3,17 +3,19 @@
 - # Overview
   - [Frontend Mentor](#frontend-mentor)
 
+    - [Advanced](#advanced)
     - [Intermediate](#intermediate)
     - [Junior](#junior)
     - [Newbie](#newbie)
       - [NFT preview card component](#nft-preview-card-component)
 
-  - [Programmers](#programmers)
+<!--   - [Programmers](#programmers) -->
 
 
 
 - ## Frontend Mentor
 
+    - ### Advanced
     - ### Intermediate
     - ### Junior
     - ### Newbie
@@ -22,5 +24,5 @@
         - 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
         - 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
 
-- ## Programmers
+<!-- - ## Programmers -->
 
