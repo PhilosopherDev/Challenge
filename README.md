@@ -6,6 +6,7 @@
     - [Advanced](#advanced)
     - [Intermediate](#intermediate)
     - [Junior](#junior)
+      - [Time Tracking Dashboard](#time-tracking-dashboard)
     - [Newbie](#newbie)
       - [NFT preview card component](#nft-preview-card-component)
 
