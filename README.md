@@ -19,6 +19,9 @@
     - ### Advanced
     - ### Intermediate
     - ### Junior
+      - ### [Time Tracking Dashboard](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)
+        - 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
+        - 🗄️ [Github](https://github.com/PhilosopherProgrammer/time-tracking-dashboard)
     - ### Newbie
       - ### [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
         - 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
