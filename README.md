@@ -1,14 +1,14 @@
 # Challenge
 
 - # Overview
-  - [Frontend Mentor](#frontend-mentor)
-    - [Newbie](#newbie)
+  - [Frontend Mentor](#frontend-mentor) (6) 
+    - [Newbie](#newbie) (5)
       - [NFT preview card component](#nft-preview-card-component)
       - [Product preview card component](#product-preview-card-component)
       - [Interactive rating component](#interactive-rating-component)
       - [QR code component](#qr-code-component)
       - [3-column preview card component](#3-column-preview-card-component)
-    - [Junior](#junior)
+    - [Junior](#junior) (1)
       - [Advice generator app](#advice-generator-app)
   - [Programmers](#programmers)
 
